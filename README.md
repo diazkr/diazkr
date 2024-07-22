@@ -10,7 +10,7 @@ Soy una desarrolladora frontend con experiencia en diversas tecnologías y lengu
 
 ## Lenguajes
 <div style="display: flex; align-items: center; gap: 5px; background-color: rgba(0, 0, 0, 0.7); padding: 10px; border-radius: 5px;">
-  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/>
+  <img src="https://camo.githubusercontent.com/3314e1e967c64488bb807e77e54d9d5e1b8135bc8a48d3d9dd62b8fc405ccd6c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d507974686f6e2d3030303f266c6f676f3d507974686f6e" alt="JavaScript"/>
   <p style="color: white; text-transform: lowercase; margin: 0;">javascript</p>
 </div>
 ## Tecnologías
