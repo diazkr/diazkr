@@ -2,11 +2,16 @@
 
 **[Tu Nombre Completo]** | [Ciudad, País]
 
-*Estudiante de [Tu Carrera] en [Tu Universidad]*
 
 ## About Me
 
-Soy una desarrolladora frontend con experiencia en diversas tecnologías y lenguajes de programación. Actualmente, estoy cursando un máster en Ingeniería de Sistemas y Computación con enfoque en Ingeniería de Software. Mi pasión por la tecnología y mi formación académica me han permitido trabajar en proyectos innovadores y desafiantes.
+- 💻 Frontend Software Engineer 
+- 🎓 Master's in Systems and Computer Engineering (in progress)
+- 🇨🇴 Colombian
+- 🏫 Graduate in Chemical Engineering from UNAL (2023)
+- 🌐 Bilingual (Spanish and English)
+- 📚 Fullstack Web Development Bootcamp Graduate
+
 
 ## Lenguajes
 
