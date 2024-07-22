@@ -32,9 +32,10 @@ I am looking to join diverse and multidisciplinary teams where I can contribute 
 
 ---
 
-![Karen's GitHub stats](https://github-readme-stats.vercel.app/api?username=diazkr&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diazkr&layout=compact&theme=radical)
-
+<div style="display: flex; flex-direction: row; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=diazkr&show_icons=true&theme=radical&card_width=450" alt="Karen's GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diazkr&layout=compact&theme=radical&card_width=450" alt="Top Langs"/>
+</div>
 
 ## Contact
 
