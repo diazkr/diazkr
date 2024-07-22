@@ -10,12 +10,10 @@ Soy una desarrolladora frontend con experiencia en diversas tecnologías y lengu
 
 ## Lenguajes
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-   <div style="display: flex; align-items: center;">
-    <img src="https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-    <span style="color: white; margin-left: 5px;">JavaScript</span>
+   <div style="display: flex; align-items: center; background-color: black; padding: 5px; border-radius: 5px;">
+    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" style="vertical-align: middle;"/>
+    <span style="color: white; text-transform: lowercase; font-size: 14px; margin-left: 5px;">javascript</span>
   </div>
-    <span style="color: white; text-transform: lowercase; font-size: 16px;">JavaScript</span>
-  </span>
   <span style="background-color: black; padding: 5px; border-radius: 5px;">
     <img src="https://img.shields.io/badge/typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" style="vertical-align: middle;"/>
     <span style="color: white; text-transform: lowercase; font-size: 16px;">TypeScript</span>
