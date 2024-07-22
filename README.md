@@ -9,27 +9,9 @@
 Soy una desarrolladora frontend con experiencia en diversas tecnologías y lenguajes de programación. Actualmente, estoy cursando un máster en Ingeniería de Sistemas y Computación con enfoque en Ingeniería de Software. Mi pasión por la tecnología y mi formación académica me han permitido trabajar en proyectos innovadores y desafiantes.
 
 ## Lenguajes
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-   <div style="display: flex; align-items: center; background-color: black; padding: 5px; border-radius: 5px;">
-    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" style="vertical-align: middle;"/>
-    <span style="color: white; text-transform: lowercase; font-size: 14px; margin-left: 5px;">javascript</span>
-  </div>
-  <span style="background-color: black; padding: 5px; border-radius: 5px;">
-    <img src="https://img.shields.io/badge/typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" style="vertical-align: middle;"/>
-    <span style="color: white; text-transform: lowercase; font-size: 16px;">TypeScript</span>
-  </span>
-  <span style="background-color: black; padding: 5px; border-radius: 5px;">
-    <img src="https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" style="vertical-align: middle;"/>
-    <span style="color: white; text-transform: lowercase; font-size: 16px;">SQL</span>
-  </span>
-  <span style="background-color: black; padding: 5px; border-radius: 5px;">
-    <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" style="vertical-align: middle;"/>
-    <span style="color: white; text-transform: lowercase; font-size: 16px;">HTML5</span>
-  </span>
-  <span style="background-color: black; padding: 5px; border-radius: 5px;">
-    <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" style="vertical-align: middle;"/>
-    <span style="color: white; text-transform: lowercase; font-size: 16px;">CSS3</span>
-  </span>
+<div style="display: flex; align-items: center; gap: 10px;">
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/>
+  <p style="color: white; text-transform: lowercase; margin: 0;">javascript</p>
 </div>
 
 ## Tecnologías
