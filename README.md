@@ -11,7 +11,7 @@ Soy una desarrolladora frontend con experiencia en diversas tecnologías y lengu
 ## Lenguajes
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
    <div style="display: flex; align-items: center;">
-    <img src="https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
+    <img src="https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
     <span style="color: white; margin-left: 5px;">JavaScript</span>
   </div>
     <span style="color: white; text-transform: lowercase; font-size: 16px;">JavaScript</span>
