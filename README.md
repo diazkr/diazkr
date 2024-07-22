@@ -9,11 +9,10 @@
 Soy una desarrolladora frontend con experiencia en diversas tecnologías y lenguajes de programación. Actualmente, estoy cursando un máster en Ingeniería de Sistemas y Computación con enfoque en Ingeniería de Software. Mi pasión por la tecnología y mi formación académica me han permitido trabajar en proyectos innovadores y desafiantes.
 
 ## Lenguajes
-<div style="display: flex; align-items: center; gap: 10px;">
+<div style="display: flex; align-items: center; gap: 5px; background-color: rgba(0, 0, 0, 0.7); padding: 10px; border-radius: 5px;">
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/>
   <p style="color: white; text-transform: lowercase; margin: 0;">javascript</p>
 </div>
-
 ## Tecnologías
 
 ![AWS](https://camo.githubusercontent.com/1a5b4f9d66d7c4b77ae5b168e3a8a84de378879ed0153d8a720506601232fcf9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4157532d3030303f266c6f676f3d616d617a6f6e2d617773)
