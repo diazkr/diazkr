@@ -7,7 +7,7 @@
 - 💻 Frontend Software Engineer
 - 🎓 Master's in Systems and Computer Engineering (in progress)
 - 🇨🇴 Colombian
-- 🏫 Graduate in Chemical Engineering from UNAL (Bachelor's degree)
+- 🏫 Graduate in Chemical Engineering from UNAL (cum laude)
 - 🌐 Bilingual (Spanish and English)
 - 📚 Fullstack Web Development Bootcamp Graduate
 
