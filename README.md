@@ -28,8 +28,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 
 ## I'm Looking For
-
-I am a Frontend / Full Stack Developer looking for development roles at high-growth organizations focused on making a positive impact in society. I am particularly interested in opportunities that will help me grow as an engineer.
+I am looking to join diverse and multidisciplinary teams where I can contribute my knowledge to the development of innovative, challenging, and high-impact projects. Additionally, I aim to expand my skills as a developer and continue gaining experience.
 
 ---
 
