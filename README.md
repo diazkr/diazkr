@@ -9,7 +9,7 @@
 Soy una desarrolladora frontend con experiencia en diversas tecnologías y lenguajes de programación. Actualmente, estoy cursando un máster en Ingeniería de Sistemas y Computación con enfoque en Ingeniería de Software. Mi pasión por la tecnología y mi formación académica me han permitido trabajar en proyectos innovadores y desafiantes.
 
 ## Lenguajes
-![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript&logoColor=F7DF1E&label=Javascript)
+<img src="https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&labelColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white&labelColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=black)
