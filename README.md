@@ -1,6 +1,6 @@
-# ¡Hola! Soy [Tu Nombre]
+Hi there 👋
 
-**[Tu Nombre Completo]** | [Ciudad, País]
+**Karen JUlieth DIaz Cardozo** | [Bogota, Colombia]
 
 
 ## About Me
