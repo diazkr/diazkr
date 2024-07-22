@@ -9,9 +9,19 @@
 Soy una desarrolladora frontend con experiencia en diversas tecnologías y lenguajes de programación. Actualmente, estoy cursando un máster en Ingeniería de Sistemas y Computación con enfoque en Ingeniería de Software. Mi pasión por la tecnología y mi formación académica me han permitido trabajar en proyectos innovadores y desafiantes.
 
 ## Lenguajes
-<div style="display: flex; align-items: center; gap: 5px; background-color: rgba(0, 0, 0, 0.7); padding: 10px; border-radius: 5px;">
-  <img src="https://camo.githubusercontent.com/3314e1e967c64488bb807e77e54d9d5e1b8135bc8a48d3d9dd62b8fc405ccd6c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d507974686f6e2d3030303f266c6f676f3d507974686f6e" alt="JavaScript"/>
-  <p style="color: white; text-transform: lowercase; margin: 0;">javascript</p>
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <div style="display: flex; align-items: center; background-color: rgba(0, 0, 0, 0.7); padding: 10px; border-radius: 5px;">
+    <img src="https://camo.githubusercontent.com/f4ab3dd2a089aa8fff44390ee2f3743d4062fda15d5c1afa9214caa61141e08d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d3030303f266c6f676f3d4a617661536372697074" alt="JavaScript" style="width: 48px; height: 48px;"/>
+  </div>
+  <div style="display: flex; align-items: center; background-color: rgba(0, 0, 0, 0.7); padding: 10px; border-radius: 5px;">
+    <img src="https://camo.githubusercontent.com/d1ae878f04ca95636527a5b7c157e5a1ad0c17d2804ded23af87b143e1981888/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d547970655363726970742d3030303f266c6f676f3d54797065536372697074" alt="TypeScript" style="width: 48px; height: 48px;"/>
+  </div>
+  <div style="display: flex; align-items: center; background-color: rgba(0, 0, 0, 0.7); padding: 10px; border-radius: 5px;">
+    <img src="https://camo.githubusercontent.com/91b8e8c96a957c9e975666168ec1440f8f6f93d4f1559c8d8914e899780f6089/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c352d3030303f266c6f676f3d48544d4c35" alt="HTML5" style="width: 48px; height: 48px;"/>
+  </div>
+  <div style="display: flex; align-items: center; background-color: rgba(0, 0, 0, 0.7); padding: 10px; border-radius: 5px;">
+    <img src="https://camo.githubusercontent.com/727cc27648f300661d18363edc137f179406997720d43e935438e0e8bc9f29d0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d435353332d3030303f266c6f676f3d43535333" alt="CSS3" style="width: 48px; height: 48px;"/>
+  </div>
 </div>
 ## Tecnologías
 
