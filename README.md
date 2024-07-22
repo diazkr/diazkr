@@ -9,12 +9,11 @@
 Soy una desarrolladora frontend con experiencia en diversas tecnologías y lenguajes de programación. Actualmente, estoy cursando un máster en Ingeniería de Sistemas y Computación con enfoque en Ingeniería de Software. Mi pasión por la tecnología y mi formación académica me han permitido trabajar en proyectos innovadores y desafiantes.
 
 ## Lenguajes
-
-![JavaScript](https://camo.githubusercontent.com/8d501be39e34a9f61113e7c7a48523a9bc8dbf1e34e276145d84a5dafffb979a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d3030303f266c6f676f3d4a617661536372697074)
-![TypeScript](https://camo.githubusercontent.com/162acbb35669f9a6a607aed5f07a55a4ba5aa2ebded76d9be4a1870e00f564e4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d547970655363726970742d3030303f266c6f676f3d54797065536372697074)
-![SQL](https://camo.githubusercontent.com/59aeb508e51aef123d70863b2d5ed92ac1b6e8eafc29a41a92af8b712fc273df/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d53514c2d3030303f266c6f676f3d53514c)
-![HTML5](https://camo.githubusercontent.com/1a71a041b5e7cc0c916c9b72c485a54c37f61198a8d014253d3a6e9d93c249b6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c352d3030303f266c6f676f3d48544d4c35)
-![CSS3](https://camo.githubusercontent.com/99f688476e9fd37de47be257f1971d2078cb4a4731e1c9f5f80d6de35f11d106/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d435353332d3030303f266c6f676f3d43535333)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ## Tecnologías
 
