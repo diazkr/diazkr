@@ -1,6 +1,6 @@
-# Hi there 👋
-
-**Karen Julieth Díaz Cardozo** | Bogotá, Colombia
+<h1 align="center">Hi, I'm Karen!</h1>
+<p align="center">Karen Julieth Díaz Cardozo | Bogotá, Colombia</p>
+<hr>
 
 ## About Me
 
